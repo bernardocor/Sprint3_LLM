@@ -1,2 +1,2 @@
 # Sprint3_LLM
-Sprint 3
+Entregables del Sprint 3
